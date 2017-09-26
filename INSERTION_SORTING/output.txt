@@ -1,0 +1,14 @@
+----------INSERTION SORTING----------
+
+n = 8
+Array[0] : 9
+Array[1] : 7
+Array[2] : 6
+Array[3] : 15
+Array[4] : 16
+Array[5] : 5
+Array[6] : 10
+Array[7] : 11
+
+SORTED ARRAY : 
+5, 6, 7, 9, 10, 11, 15, 16, 

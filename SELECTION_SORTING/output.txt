@@ -1,0 +1,15 @@
+----------SELECTION SORTING----------
+
+n = 9
+Array[0] : 5
+Array[1] : 17
+Array[2] : 8
+Array[3] : 9
+Array[4] : 4
+Array[5] : 20
+Array[6] : 16
+Array[7] : 2
+Array[8] : 15
+
+SORTED ARRAY : 
+2, 4, 5, 8, 9, 15, 16, 17, 20, 
